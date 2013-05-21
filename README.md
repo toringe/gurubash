@@ -9,14 +9,14 @@ variable to get a fixed width.
 
 Example
 -------
-`
+```
 !/bin/bash
 source "guru.sh"
 if [ <error condition> ]; then
   # Display Guru Meditation error with the error code of 123
   guru 123
 fi
-`
+```
 
 
 
